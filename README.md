@@ -1,2 +1,4 @@
 # production-data-cleaning-python
-Create a Python/pandas workflow that turns messy manufacturing production data into clean reporting- ready data.
+Created a Python data-cleaning workflow using pandas to standardize, validate, and transform fictional
+manufacturing production data for reporting and dashboard development.
+
